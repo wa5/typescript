@@ -1,0 +1,8 @@
+var a:number;
+var b:boolon;
+var c:string;
+
+
+a="gfh";
+b=true;
+c="igg";
