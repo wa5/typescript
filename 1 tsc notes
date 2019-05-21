@@ -1,0 +1,9 @@
+The TypeScript Compiler
+The TypeScript compiler is itself a .ts file compiled down to JavaScript (.js) file.
+The TSC (TypeScript Compiler) is a source-to-source compiler (transcompiler / transpiler).
+
+TypeScript Compiler
+The TSC generates a JavaScript version of the .ts file passed to it. In other words, 
+the TSC produces an equivalent JavaScript source code from the Typescript file given as an input to it. This process is termed as transpilation.
+
+However, the compiler rejects any raw JavaScript file passed to it. The compiler deals with only .ts or .d.ts files.
