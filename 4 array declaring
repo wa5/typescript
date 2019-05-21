@@ -1,0 +1,6 @@
+//hear we want a arry but in terms of the number only
+var myarry:number[];
+myarry= [];
+myarry= [1];
+myarry= [1,2,3];
+myarry= ["fgsagf"];
