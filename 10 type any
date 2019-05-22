@@ -1,0 +1,5 @@
+var a;//by defult type script takes as any kind of data type
+//var a:any;
+a=10;
+a="kutfg";
+a=true;
