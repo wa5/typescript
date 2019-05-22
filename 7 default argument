@@ -1,0 +1,9 @@
+function add(a,b,c=0){
+
+return a+b;
+}
+var sum= add(1,2)
+console.log(add);
+
+//add(1) ;
+//add(1,2,3);
