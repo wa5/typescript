@@ -1,0 +1,5 @@
+//to take two data types at a time 
+var a: number|boolean;
+a= 10;
+a=true;
+a="jfdgjdh";
