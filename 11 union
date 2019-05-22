@@ -3,3 +3,9 @@ var a: number|boolean;
 a= 10;
 a=true;
 a="jfdgjdh";
+
+
+/*var a: number|boolean |string;
+a= 10;
+a=true;
+a="jfdgjdh";*/
