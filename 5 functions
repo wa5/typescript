@@ -1,0 +1,18 @@
+var a =10;
+var b=20;
+//it is java script
+/*function add(a,b){
+
+return a+b;
+}
+var sum= add(1,2)
+console.log(add);*/
+
+
+//it is type script
+/*function add(a:number,b:number){
+
+return a+b;
+}
+var sum= add(1,2)
+console.log(add);*/
