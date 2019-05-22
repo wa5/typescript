@@ -1,0 +1,6 @@
+var a= 10;
+var b=true;
+var c="dfrfa"
+
+//again assin it new value to a check it out
+ a=true;
