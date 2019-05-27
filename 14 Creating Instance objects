@@ -1,0 +1,2 @@
+syntax
+var object_name = new class_name([ arguments ])
