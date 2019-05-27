@@ -1,0 +1,2 @@
+syntax
+class child_class_name extends parent_class_name
